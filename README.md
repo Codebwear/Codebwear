@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Codebwear
-- 👀 I’m interested in coding design the website 
+- 👀 I’m interested in coding & design the website 
 - 🌱 I’m currently learning mobile specialist 
 - 💞️ I’m looking to collaborate on productivity 
-- 📫 How to reach me clike on link
+- 📫 How to reach me click on link
 
 <!---
 Codebwear/Codebwear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
